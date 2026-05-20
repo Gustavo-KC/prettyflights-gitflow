@@ -1,0 +1,6 @@
+Tela inicial do Totem PrettyFlights
+
+- Login do passageiro
+- Leitura de CPF
+- Impressão de cartão de embarque
+- Confirmação de voo
