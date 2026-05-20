@@ -6,3 +6,7 @@ A feature adiciona:
 - leitura de CPF
 - confirmação de voo
 - impressão do cartão de embarquegit add .
+
+## Criação da release 1.0.0
+
+Foi criada a branch release/1.0.0 para preparação da primeira versão estável do sistema.
