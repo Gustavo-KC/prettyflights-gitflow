@@ -4,3 +4,5 @@ Tela inicial do Totem PrettyFlights
 - Leitura de CPF
 - Impressão de cartão de embarque
 - Confirmação de voo
+
+Correção da validação de CPF do passageiro
